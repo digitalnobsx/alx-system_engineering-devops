@@ -1,0 +1,3 @@
+#!/bin/bash
+
+chgrp my_dir hello
